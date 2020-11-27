@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397763195466",
+    "firebase_url": "https://emergency-c2c80.firebaseio.com",
+    "project_id": "emergency-c2c80",
+    "storage_bucket": "emergency-c2c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397763195466:android:b762a35d1beadfa5746cb3",
+        "android_client_info": {
+          "package_name": "edu.utah.cs4530.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397763195466-qns8ov30bo2l9jkbij1ltm3mqlb7cf34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJccYxPwIUIATSm_1ZF34G28VqvkXFho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397763195466-qns8ov30bo2l9jkbij1ltm3mqlb7cf34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

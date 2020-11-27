@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#AA2E25</color>
+    <color name="colorAccent">#F6685E</color>
+
+    <color name="proswipebtn_translucent_white">#33ffffff</color>
+    <color name="proswipebtn_red">#F15824</color>
+    <color name="proswipebtn_disabled_grey">#939393</color>
+</resources>
